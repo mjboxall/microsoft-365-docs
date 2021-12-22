@@ -346,6 +346,7 @@ Select the **Command log** tab to see the commands used on the device during a s
   - `getfile` limit: 3 GB
   - `fileinfo` limit: 10 GB
   - `library` limit: 250 MB
+  - File upload to library limit: 10 MB
 
 ## Related article
 
